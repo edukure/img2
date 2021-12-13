@@ -11,15 +11,21 @@
     "@chakra-ui/theme-tools": "1.1.2",
     "@emotion/react": "11.1.5",
     "@emotion/styled": "11.1.5",
+    "array-to-image": "^1.0.0",
     "framer-motion": "^4.0.3",
     "next": "latest",
+    "parse-data-url": "^4.0.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-dropzone": "^11.4.2",
+    "react-image-parser": "^2.0.2",
+    "recharts": "^2.1.6"
   },
   "devDependencies": {
     "@types/node": "^14.6.0",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.3",
+    "@types/recharts": "^1.8.23",
     "typescript": "4.3.2"
   }
 }
